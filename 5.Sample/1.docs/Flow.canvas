@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"fd664fecadda3486","x":-80,"y":-380,"width":480,"height":500,"type":"group","label":"New Feature"},
+		{"id":"ab4bf1808d2add98","x":-520,"y":-160,"width":250,"height":60,"color":"2","type":"text","text":"## Start"},
+		{"id":"b1c735ddf2bcf36f","x":-40,"y":-330,"width":400,"height":400,"color":"1","type":"file","file":"5.Sample/1.docs/Docs.canvas"},
+		{"id":"c613a88450f0b40b","type":"text","text":"## AS-IS","x":660,"y":-520,"width":250,"height":67,"color":"3"},
+		{"id":"d29201a50f4b62d4","x":660,"y":160,"width":250,"height":67,"color":"4","type":"text","text":"## TO-DO"}
+	],
+	"edges":[
+		{"id":"f93c4f5f55708054","fromNode":"ab4bf1808d2add98","fromSide":"right","toNode":"b1c735ddf2bcf36f","toSide":"left","label":"Docs"},
+		{"id":"27cebe1feb4eb21d","fromNode":"fd664fecadda3486","fromSide":"right","toNode":"c613a88450f0b40b","toSide":"left"},
+		{"id":"f69702ef0d311b46","fromNode":"fd664fecadda3486","fromSide":"right","toNode":"d29201a50f4b62d4","toSide":"left"}
+	]
+}

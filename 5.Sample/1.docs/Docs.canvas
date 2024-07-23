@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"265539d992757816","type":"file","file":"5.Sample/1.docs/1.tags/Info.md","x":-260,"y":-380,"width":400,"height":400},
+		{"id":"8d5d6e4ad27bd1f2","type":"file","file":"5.Sample/1.docs/1.tags/Edit.md","x":220,"y":-380,"width":400,"height":400},
+		{"id":"c324651e52bfecba","type":"file","file":"5.Sample/1.docs/1.tags/Error.md","x":720,"y":-380,"width":400,"height":400},
+		{"id":"679169bd8d125fd0","type":"file","file":"5.Sample/1.docs/1.tags/Warning.md","x":1240,"y":-380,"width":400,"height":400},
+		{"id":"9ce622d1d1b12bfc","type":"text","text":"## [Obsidian Youtube](https://www.youtube.com/watch?v=hSTy_BInQs8)","x":540,"y":-940,"width":280,"height":80}
+	],
+	"edges":[
+		{"id":"5e51b4781711c1f1","fromNode":"9ce622d1d1b12bfc","fromSide":"bottom","toNode":"8d5d6e4ad27bd1f2","toSide":"top"},
+		{"id":"adc3d26ea183a6f3","fromNode":"9ce622d1d1b12bfc","fromSide":"bottom","toNode":"c324651e52bfecba","toSide":"top"},
+		{"id":"695a0d8a5a61fe78","fromNode":"9ce622d1d1b12bfc","fromSide":"bottom","toNode":"265539d992757816","toSide":"top"},
+		{"id":"2ff15120394c3eaf","fromNode":"9ce622d1d1b12bfc","fromSide":"bottom","toNode":"679169bd8d125fd0","toSide":"top"}
+	]
+}
